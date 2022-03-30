@@ -1,5 +1,6 @@
 # Covid19 İstatistik - Volley
 Covid19 etkisini azalttı ancak bu uygulama bir köşede dursun. Uygulama Kotlin dili ve Volley kütüphanesi ile Rest Api üzerinden verileri çekip ekranda göstermektedir. 
+Bu projeyi sadece volley kütüphanesini kullanmış olmak için oluşturdum :)
 
 Dünya Verileri: https://disease.sh/v3/covid-19/all
 Türkiye Verileri: https://disease.sh/v3/covid-19/countries/tr
